@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a programming enthusiast, eager to learn new technologies. 
+
+I have with:
+ -C/C++, Python
+ -HTML/Css and Javascript
+
 <!--
 **AlexandruAndrita/AlexandruAndrita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
