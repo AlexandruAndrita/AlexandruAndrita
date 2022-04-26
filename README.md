@@ -6,4 +6,4 @@ I have worked with: <br/>
  - `C/C++`, `Python` <br/>
  - `HTML/Css` and `Javascript` <br/>
 
- 🔭 I am currently working on developing a quiz game.
+ 🔭 I am currently working on developing a quiz game in `C`.
