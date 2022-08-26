@@ -5,5 +5,3 @@
 I have worked with: <br/>
  - `C/C++`, `Python` <br/>
  - `HTML/CSS`, `JavaScript` and `PHP` <br/>
-
- 🔭 I am currently working on developing a quiz game in `C`.
