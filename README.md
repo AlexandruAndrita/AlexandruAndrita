@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=AlexandruAndrita&flat)
+
 ### Hi there 👋
 
 ⚡ I am a programming enthusiast, eager to learn new technologies.  <br/>
