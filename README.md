@@ -60,6 +60,3 @@
 </p>
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandruAndrita&layout=compact&hide_progress=true)
-
