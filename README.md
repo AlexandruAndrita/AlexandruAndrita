@@ -22,7 +22,7 @@
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,js,python,nodejs&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cs,python,nodejs,cpp,js,html,css&perline=7" />
 </p>
 
 ### 🔗 Frameworks and APIs
@@ -37,7 +37,10 @@
 
 ### 🛠️ Tools, Frameworks and APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,docker&perline=6" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode&perline=6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="45" />
+  <img src="https://skillicons.dev/icons?i=postman,docker&perline=6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" height="45" />
 </p>
 
 ### 🤖 AI & Copilot Development
