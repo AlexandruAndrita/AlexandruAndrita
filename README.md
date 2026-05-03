@@ -27,12 +27,14 @@
 
 ### 🔗 Frameworks and APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,graphql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=dotnet,flask,graphql&perline=6" />
 </p>
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & Version Control
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,github,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=azure&perline=6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github,git&perline=6" />
 </p>
 
 ### 🛠️ Tools, Frameworks and APIs
