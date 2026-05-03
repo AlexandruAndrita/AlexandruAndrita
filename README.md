@@ -11,7 +11,7 @@
 ### 🚀 [MCP](https://github.com/Azure/MCP)
 
 - **Contribution:** Developed the MCP server and submitted its integration via JSON configuration.   
-- **Details:** Designed use cases, implemented API endpoints and, configured OAuth-based authentication.
+- **Details:** Designed use cases and implemented both the MCP server and backend API endpoints in **C#** and configured OAuth-based authentication.
 - **Ownership:** Maintaining and evolving the server as part of my professional role.
 - **Impact:** The server will be published in the AI Foundry and made accessible to any Foundry user.  
 - 🔗 **PR:** https://github.com/Azure/MCP/pull/160
