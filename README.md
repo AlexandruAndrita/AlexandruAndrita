@@ -37,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=github,git&perline=6" />
 </p>
 
-### 🛠️ Tools, Frameworks and APIs
+### 🛠️ Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode&perline=6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="45" />
