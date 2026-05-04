@@ -22,7 +22,7 @@
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,nodejs,cpp,js,html,css&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cs,python,nodejs,cpp,js,html,css,mysql&perline=8" />
 </p>
 
 ### 🔗 Frameworks and APIs
